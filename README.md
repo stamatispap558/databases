@@ -1,4 +1,4 @@
-# online-order-and-delivery-food-app
+# online-ordering-and-delivery-food-app
 
 Step 1: Download 9 .csv files and save them on same folder. </br>
 Step 2: Replace paths and sql data with your own. </br>
