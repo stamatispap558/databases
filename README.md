@@ -1,11 +1,7 @@
-# ifood-online-order-and-delivery-food-app
-Εφαρμογη online παραγγελίασ και παράδοσης φαγητού
-insert_data.py
-Αρχείο python που χρησιμοποιεί (mysql.connector,pandas) για την εισαγωγή αρχείων στη βάση.
-Βήμα 1:Κατέβαστε τα αρχεία 9 csv και αποθήκευστε τα στον ίδιο φάκελο.
-Βήμα 2:Αντικατέστησε τα path και τα δεδομένα sql με τα δικά σας
-Βήμα 3:Execute
-ifood.sql
-Βάση δεδομένων με 9 Πίνακες
-tkinter_app
-Γραφική διεπαφή του πελάτη.Επιλογή καταστήματος προϊόντων,καταχώρηση παραγγελίας,καταχώρηση πληρωμής και δυνατότητα αξιολόγησης
+# online-order-and-delivery-food-app
+
+Step 1: Download 9 .csv files and save on same folder.
+Step 2: Replace paths and sql data with your own.
+Step 3: Execute ifood.sql
+
+You can select products, insert orders and payments and rating option system 
